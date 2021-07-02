@@ -1,0 +1,33 @@
+---
+sidebar_position: 1
+---
+
+### Changelog
+- Merged latest Codelinaro CLO Release tag LA.UM.9.12.r1-14100-SMxx50.0.
+- Kernel synced with android kernel common at Linux version 4.19.239 with April CVE patches merged tag `ASB-2022-04-05_4.19-stable`.
+- Added support for disabling newly added USB devices [for LineageOS / LineageOS based ROMs].
+- Added support for OSS FOD support on supported devices.
+- Blocked proximity sensor access on telegram / catogram / nekogramX.
+- Set evaluation as default thermal profile.
+- Switched to PELT half-life value of 16ms for faster task processing.
+- Added support for automated memory compaction.
+- Upgrade zRAM from the mainline kernel.
+- Fixed issue: failed to write to swap-device on MIUI.
+- Allow swappiness up to 200.
+- Faster fingerprint response and processing on alioth.
+- Fixed newly added thermal message sysfs for mi thermald on MIUI13.
+- Fixed panic freeze while device in suspend.
+- Fixed kernel warning while kernel oops in progress.
+- Enabled TCP ECN negotiation.
+- Improved boot time.
+- Fixed memory leaks from camera driver.
+- Disabled a bunch of debugging from the kernel.
+- Compiled kernel using latest AOSP Clang v14.0.5 with O3 optimization.
+- Fixed analog headphones buttons configuration.
+- Upgraded binder from android-mainline.
+- Upgraded awinic haptics driver from mi12 pro for alioth.
+- Fixed low benchmarks score issue on geekbench.
+- Fixed modem restart issues on MIUI13.
+- Optimized power consumption while the device is suspended.
+- Added support for UFS Turbo write and HPB on supported devices.
+- Fixed the wrong message while flashing saying magisk preserved on non-rooted devices.
