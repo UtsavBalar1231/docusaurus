@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="342" height="342" viewBox="0 0 342 342">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.414" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff4199"/>
+      <stop offset="1" stop-color="#ff004d"/>
+    </linearGradient>
+  </defs>
+  <g id="logo" transform="translate(-29 -29)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="171" cy="171" r="171" transform="translate(29 29)" fill="url(#linear-gradient)"/>
+    <text id="UTSAV_THE_CUNT." data-name="UTSAV
+THE
+CUNT." transform="translate(124 168)" fill="#fff" font-size="50" font-family="Gilroy-Heavy, Gilroy" font-weight="800"><tspan x="0" y="0">UTSAV</tspan><tspan x="0" y="50">THE</tspan><tspan x="0" y="100">CUNT</tspan><tspan y="100" font-size="64">.</tspan></text>
+  </g>
+</svg>
