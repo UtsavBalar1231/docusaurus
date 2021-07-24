@@ -1,0 +1,28 @@
+{
+    "latest": {
+        "alioth": [
+            {
+                "version": "11.5.2",
+                "variant": "minimal",
+                "url": "https://drive.google.com/uc?id=1AbI66niNrDtLv3-lxYSGRXMzSybvy1bB&export=download"
+            },
+            {
+                "version": "11.5.2",
+                "variant": "gapps",
+                "url": "https://drive.google.com/uc?id=1AbI66niNrDtLv3-lxYSGRXMzSybvy1bB&export=download"
+            }
+        ],
+        "aliothin": [
+            {
+                "version": "11.5.2",
+                "variant": "minimal",
+                "url": "https://drive.google.com/uc?id=1AbI66niNrDtLv3-lxYSGRXMzSybvy1bB&export=download"
+            },
+            {
+                "version": "11.5.2",
+                "variant": "gapps",
+                "url": "https://drive.google.com/uc?id=1AbI66niNrDtLv3-lxYSGRXMzSybvy1bB&export=download"
+            }
+        ]
+    }
+}
