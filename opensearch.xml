@@ -4,8 +4,8 @@
   <ShortName>UtsavBalar</ShortName>
   <Description>Search UtsavBalar</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://UtsavBalar1231.github.io/docusaurus/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://UtsavBalar1231.github.io/docusaurus/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://UtsavBalar1231.github.io/docusaurus/opensearch.xml" />
-  <moz:SearchForm>https://UtsavBalar1231.github.io/docusaurus/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://utsavbalar.netlify.app/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://utsavbalar.netlify.app//search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://utsavbalar.netlify.app//opensearch.xml" />
+  <moz:SearchForm>https://utsavbalar.netlify.app//</moz:SearchForm>
 </OpenSearchDescription>
