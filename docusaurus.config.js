@@ -24,7 +24,11 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
         },
-        blog: false,
+        blog: {
+          // routeBasePath: '/blog', // Serve the blog at the site's root
+          showReadingTime: true,
+          // Please change this to your repo.
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -45,6 +49,11 @@ const config = {
           {
             to: '/immensity',
             label: 'IMMENSITY',
+            position: 'left'
+          },
+          {
+            to: '/blog',
+            label: 'Blog',
             position: 'left'
           },
           {
