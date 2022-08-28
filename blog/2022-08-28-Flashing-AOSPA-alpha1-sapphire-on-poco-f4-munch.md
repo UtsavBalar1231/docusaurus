@@ -61,7 +61,7 @@ Flashing signed boot and vendor boot
 
 ```bash
 fastboot flash boot_ab aospa-boot.img
-fastboot flash boot_ab aospa-vendor_boot.img
+fastboot flash vendor_boot_ab aospa-vendor_boot.img
 ```
 
 ### Step 2
