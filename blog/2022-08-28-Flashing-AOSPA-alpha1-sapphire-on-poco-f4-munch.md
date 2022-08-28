@@ -5,7 +5,7 @@ authorURL: https://github.com/UtsavBalar1231
 authorImageURL: https://avatars1.githubusercontent.com/u/32286881?s=460&v=4
 ---
 
-### Introducing <p style={{color: 'green'}}>paranoid android</p> for xiaomi munch by UtsavBalar
+<h3> Introducing <p style={{color: 'green'}}>paranoid android</p> for xiaomi munch by UtsavBalar </h3>
 
 The latest alpha release of Paranoid Android ROM for munch contains two package variants.
 
@@ -19,8 +19,8 @@ ADB sideload Package is flashed through a signed AOSPA recovery.
 
 > **Prerequicites:**
 
--   AOSP platform-tools
--   Brain
+- AOSP platform-tools
+- Brain
 
 ### Step 1
 
@@ -42,18 +42,18 @@ fastboot update --skip-secondary --skip-reboot aospa*.zip
 
 Formatting the Data
 
--   Reboot into recovery
--   Wipe Data / Factory Reset
--   Reboot to system
+- Reboot into recovery
+- Wipe Data / Factory Reset
+- Reboot to system
 
 ## Flashing ADB Sideload Package
 
 > **Prerequicites:**
 
--   AOSP platform-tools
--   Signed aospa boot.img
--   Signed aospa vendor_boot.img
--   Brain
+- AOSP platform-tools
+- Signed aospa boot.img
+- Signed aospa vendor_boot.img
+- Brain
 
 ### Step 1
 
@@ -90,8 +90,8 @@ adb sideload aospa*.zip
 
 Formatting the Data
 
--   Wipe Data / Factory Reset
--   Reboot to system
+- Wipe Data / Factory Reset
+- Reboot to system
 
 :::tip Always keep a backup of your partitions
 :::
