@@ -18,6 +18,7 @@ you point the finger at me for messing up your device, I will laugh at you. Hard
 `Avoid flashing this kernel on hentaiOS or hentai based ROMs`
 
 [**GitHub Release**](https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250/releases/tag/7.1.0)
+
 [**Download from Pling**](https://www.pling.com/p/1530245/)
 :::
 

@@ -24,3 +24,6 @@ sidebar_position: 1
 - Upgraded lrng driver from Linux kernel 5.15.
 - Fixed unusual power consumption issue on UMI / THYME.
 - Updated kernel devicetree to LA.UM.9.12.r1-14400-SMxx50.0.
+- Backported fortify source patches from mainline kernel.
+- Enabled back support for ARM64 compiler optimizations.
+- Fixed async binder buffer running out and save unnecessary binder read workloads.
